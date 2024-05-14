@@ -1,0 +1,11 @@
+{
+    "API1": {
+        "log_file": "log1.log"
+    },
+    "API2": {
+        "log_file": "log2.log"
+    },
+    "API3": {
+        "log_file": "log3.log"
+    }
+}
